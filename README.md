@@ -92,7 +92,7 @@ etl-weatherstack/
 
 ## 👨‍💻 Autor
 
-Tu Nombre - Ingeniería de Sistemas - CORHUILA
+Allan Zapata Oscar leon - Ingeniería de Sistemas - CORHUILA
 
 ## 📝 Licencia
 
